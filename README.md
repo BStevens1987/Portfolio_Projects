@@ -1,7 +1,18 @@
-# example_company_website
+# company-website-practice
 
-I used html and css with flexbox to create a formatted example company website. I used generic images and text for filler to emphasize the overall formatting. For a real company website, the text and images would be matched to fit the company details.
+A practice project built with **HTML** and **CSS** (using Flexbox) to create a basic company-style landing page.  
+The goal was to practice layout, spacing, responsive design, and structuring content effectively.
 
-There are four formatted sections and one footer at the base. Many different classes have been used to alter text and formatting throughout the page. This is by design, to show off the ability to make many things unique when necessary. If desired, I could easily create a more consistent style throughout that would use less code. I could also add additional features upon request.
+## Features
+- Four main content sections plus a footer
+- Flexbox-based layout for responsive structure
+- Custom CSS classes for styling and formatting
+- Placeholder text and images for demonstration purposes
 
-The buttons and links are set to show the hand cursor on hover by design. For a real company website, these would be linked to additional webpages. I would enable the links to open new tabs or redirect the current tab based on the company's desires.
+## Purpose
+This project was created as part of early web development practice.  
+It demonstrates the ability to create structured, responsive web pages but is **not intended for production use**.
+
+## Notes
+- Buttons and links are styled to show a pointer on hover; they are not linked to external pages.  
+- The design prioritizes practice of layout and formatting over polished visual design.
